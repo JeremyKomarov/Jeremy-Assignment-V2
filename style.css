@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.site {
+  display: inline-flex;
+  flex-direction: column;
+  padding: 5px;
+  margin: 2px 2px 2px 20px;
+  border-radius: 10px;
+  border: 1px solid green;
+}
+
+.site-child-0 {
+  background-color: #add8e6;
+}
+.site-child-1 {
+  background-color: #87cefa;
+}
+.site-child-2 {
+  background-color: #b0c4de;
+}
+.site-child-3 {
+  background-color: #ffa07a;
+}
